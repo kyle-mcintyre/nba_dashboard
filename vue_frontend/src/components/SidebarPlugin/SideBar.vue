@@ -9,7 +9,7 @@
           <div class="logo-img"
                :class="{'logo-img-rtl': $rtl.isRTL}">
             <img
-              src="./nbaLogo.jpg"
+              src="./basketball.jpg"
               alt="">
           </div>
         </a>
